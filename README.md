@@ -16,6 +16,7 @@ Aplikacja będzie dostępna pod adresem [http://localhost:3000](http://localhost
 ## Weryfikacja
 
 ```bash
+npm test
 npm run lint
 npm run build
 ```
